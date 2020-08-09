@@ -4,10 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Instructions
 
- - Clone this repository `git clone git@github.com:inuwa/dlg-ui-test.git`
+ - Download the zip file **dlg-ui-excercise.zip** and uncompress it.
  - Navigate to the folder `cd <PATH-TO-FOLDER>/dlg-ui-test`. _replace <PATH-TO-FOLDER> with the path to the cloned folder.
  - Install node_module dependencies `npm install`
  - Start the data api `npm run serve-api`
- - Open anotther terminal window and  `ng serve`. Navigate to `http://localhost:4200/`. 
+ - Open anotther terminal window and run `npm run start`. Navigate to `http://localhost:4200/`. 
 
 ## 
